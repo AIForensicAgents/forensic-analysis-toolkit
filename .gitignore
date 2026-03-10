@@ -1,0 +1,28 @@
+# Dependencies
+node_modules/
+package-lock.json
+
+# Environment
+.env
+.env.local
+keys/
+*.json.key
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Output
+output/
+tmp/
+*.pdf
+*.png
+*.jpg
+
+# Logs
+*.log
+logs/
